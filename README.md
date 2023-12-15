@@ -7,4 +7,4 @@ A working model that can be saved and loaded from the users instance machine. Mo
 
 Libaries used: NumPy, Seaborn, Pandas, Matplotlib, sklearn.model_selection, tensorflow.keras.models and layers.
 
-This project was part of "Python in Data Science and Machine Learning Bootcamp" on Udemy. KMeans clustering was used to determine whether a college was public or private based on the following features:
+This project was part of "Python in Data Science and Machine Learning Bootcamp" on Udemy.
